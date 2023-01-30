@@ -1,0 +1,4 @@
+{
+  "my-account-pages > my-account-page": "my-account-page.master-data-project-page",
+  "my-account-menu > my-account-link": "my-account-link.master-data-project-link"
+}

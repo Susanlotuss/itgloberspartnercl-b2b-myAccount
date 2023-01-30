@@ -1,0 +1,8 @@
+{
+  "my-account-page.master-data-project-page": {
+    "component": "MyAppPage"
+  },
+  "my-account-link.master-data-project-link": {
+    "component": "MyAppLink"
+  }
+}
